@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Express server template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecascioli/nodejs-react-docker-start.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Joseph Cascioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joecascioli/nodejs-react-docker-start/issues"
+  },
+  "homepage": "https://github.com/joecascioli/nodejs-react-docker-start#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
